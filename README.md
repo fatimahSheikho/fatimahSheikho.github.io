@@ -23,9 +23,7 @@ Then, we calculated the average traffic per hour in weekends and weekdays.
 
    <img url="Screen Shot 2019-09-07 at 8.31.47 PM.png" >   
 
-Lastly, we suggested the top five stations in May and August also the preferable hours during weekend and weekdays. 
-So far, the project was so challenging, yet, I enjoyed every minute working on it.
-I have learned how to use Pandas and Seaborn and apply them in my project.
+Lastly, we suggested the top five stations in May and August also the preferable hours during the weekend and weekdays. So far, the project was so challenging, yet, I enjoyed every minute working on it. I have learned how to use Pandas and Seaborn and apply them to my project.
 
 
 
