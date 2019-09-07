@@ -3,18 +3,18 @@ and they asked us to analyze the MTA data, to distribute their teams among the t
 signatures as possible. 
 
 
- 1.	Data acquisition
+# 1.	Data acquisition
 We chose the data of two months May and August 2019 from 
-2.	Data Cleansing
+
+#2.	Data Cleansing
 To prepare the data before processing it,
 we striped out all the white space, dealt with missing values, and calculated the exact number of exits and entries. 
 
-3.	Descriptive Analysis & Data Visualization 
+#3.	Descriptive Analysis & Data Visualization 
 
 Firstly, we calculated the average traffic in each station, and we sorted five top stations in May and August.
 
-   
-
+<img src="Screen Shot 2019-09-07at8.31.08PM.png" >   
 
 
 Then, we calculated the average traffic per hour in weekends and weekdays.
