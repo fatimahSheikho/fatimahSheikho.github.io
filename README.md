@@ -4,7 +4,7 @@ signatures as possible.
 
 
 # 1.	Data acquisition
-We chose the data of two months May and August 2019 from 
+We chose the data of two months May and August 2019.
 
 # 2.	Data Cleansing
 To prepare the data before processing it,
@@ -16,10 +16,12 @@ Firstly, we calculated the average traffic in each station, and we sorted five t
 
 <img url="Screen Shot 2019-09-07 at 8.31.08 PM.png" >   
 
-<img scr="Screen Shot 2019-09-07 at 8.31.08 PM.png" >   
+<img url="Screen Shot 2019-09-07 at 8.31.28 PM.png" >   
 
 Then, we calculated the average traffic per hour in weekends and weekdays.
-   
+   <img url="Screen Shot 2019-09-07 at 8.31.40 PM.png" >   
+
+   <img url="Screen Shot 2019-09-07 at 8.31.47 PM.png" >   
 
 Lastly, we suggested the top five stations in May and August also the preferable hours during weekend and weekdays. 
 So far, the project was so challenging, yet, I enjoyed every minute working on it.
