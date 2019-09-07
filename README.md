@@ -16,6 +16,7 @@ Firstly, we calculated the average traffic in each station, and we sorted five t
 
 <img url="Screen Shot 2019-09-07 at 8.31.08 PM.png" >   
 
+<img scr="Screen Shot 2019-09-07 at 8.31.08 PM.png" >   
 
 Then, we calculated the average traffic per hour in weekends and weekdays.
    
