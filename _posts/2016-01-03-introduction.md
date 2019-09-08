@@ -15,7 +15,8 @@ WomenTechWomenYes (WTWY) international company has an annual gala at the beginni
 # Methodology:
 
  #  1.	Data acquisition
-We chose the data of May and August 2019 from [MTA ] (http://web.mta.info/developers/turnstile.html). The dataset has 14 columns. 378 stations, 469 Units, and 224 SCP’s.
+ 
+We chose the data of May and August 2019 from [MTA ](http://web.mta.info/developers/turnstile.html). The dataset has 14 columns. 378 stations, 469 Units, and 224 SCP’s.
 
 # 2.	Data Cleansing
  
