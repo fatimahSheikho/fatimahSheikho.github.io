@@ -16,7 +16,7 @@ sass:
   style:            :compressed
 
 # About/contact
-author:               Fatimah
+author:
   name:              Fatimah
   url:               None
   email:             fatimah.sheikho@gmail.com
