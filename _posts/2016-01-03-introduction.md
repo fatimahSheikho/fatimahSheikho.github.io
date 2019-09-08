@@ -14,7 +14,7 @@ WomenTechWomenYes (WTWY) international company has an annual gala at the beginni
 
 # Methodology:
 
- #  1.	Data acquisition
+ # 1.	Data acquisition
  
 We chose the data of May and August 2019 from [MTA ](http://web.mta.info/developers/turnstile.html). The dataset has 14 columns. 378 stations, 469 Units, and 224 SCP’s.
 
@@ -49,7 +49,7 @@ Lastly, we calculated the average traffic per hour in weekends and weekdays.
 ![image]({{site.url}}/images/Screen Shot 2019-09-07 at 8.31.47 PM.png)
 # 4.	Results
 
-Lastly, we suggested the topmost traffic station in May which is BAYCHESTER AV, and Dekalb AV in August. Also, it is preferable to signatures collect in the afternoon during weekdays, and evenings during the weekends. So far, the project was so challenging, yet, I enjoyed every minute working on it. I have learned how to use Pandas and Seaborn and apply them in my project.
+Lastly, we suggested the topmost traffic station in May which is BAYCHESTER AV, and Dekalb AV in August. Also, it is preferable to signatures collect in the afternoon during weekdays, and evenings during the weekends. So far, the project was so challenging, yet, I enjoyed every minute working on it. Most importantly, I have learned how to use Pandas and Seaborn and how to apply them in my project.
 
 
 
