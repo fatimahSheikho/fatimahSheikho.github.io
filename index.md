@@ -5,10 +5,7 @@ title: projects
 
 
 
----
-layout: post
-title: New York Subways Traffic Analysis
----
+
 
 
 
