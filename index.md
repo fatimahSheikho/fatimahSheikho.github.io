@@ -26,13 +26,14 @@ We chose the data of May and August 2019 from [MTA ](http://web.mta.info/develop
  
  To prepare the data before processing it we did some steps:
 
--We concatenated “Data and Time” column into one, also we dropped some of the columns that we did not need while processing the data, the columns are: C/A, LINENAME, DIVISION, DESC.
+- We concatenated “Data and Time” column into one, also we dropped some of the columns that we did not need while processing the data, the columns are: C/A, LINENAME, DIVISION, DESC.
 
--We created a unique identifier called (DUS) for each turnstile (Station, SCP, UNIT), it will help in calculating the average traffic time.
+- We created a unique identifier called (DUS) for each turnstile (Station, SCP, UNIT), it will help in calculating the average traffic time.
 
--We added a ‘hour’ column that gets the hour from time, to know the average traffic per hour in weekends and weekdays.
+- We added a ‘hour’ column that gets the hour from time, to know the average traffic per hour in weekends and weekdays.
 
 - We striped out all the white space, dealt with missing values, and calculated the exact number of exits and entries. 
+
 ![image]({{site.url}}/images/Screen Shot 2019-09-07 at 10.48.44 PM.png)
 
 
