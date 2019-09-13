@@ -17,7 +17,7 @@ WomenTechWomenYes (WTWY) international company has an annual gala at the beginni
 # Methodology:
 
  #  1.	Data acquisition
-We chose the data of May and August 2019 from [MTA ] (http://web.mta.info/developers/turnstile.html). The dataset has 14 columns. 378 stations, 469 Units, and 224 SCP’s.
+We chose the data of May and August 2019 from [MTA ](http://web.mta.info/developers/turnstile.html). The dataset has 14 columns. 378 stations, 469 Units, and 224 SCP’s.
 
 # 2.	Data Cleansing
  
@@ -36,17 +36,21 @@ We chose the data of May and August 2019 from [MTA ] (http://web.mta.info/develo
 # 3.	Data processing
 
 Firstly, we calculated the total number of traffic= entries + exits, the number of entries and exits per hour, and the average, sum and max. 
+
 ![image]({{site.url}}/images/Screen Shot 2019-09-07 at 11.15.58 PM.png)
 
 
 We sorted the data based on the unique identifier ‘DUS’ and from the average total of traffic we took top five stations in May and August. With the help of Seaborn we plotted the results.
+
 ![image]({{site.url}}/images/Screen Shot 2019-09-07 at 8.31.08 PM.png)
+
 ![image]({{site.url}}/images/Screen Shot 2019-09-07 at 8.31.28 PM.png)
 
 
 Lastly, we calculated the average traffic per hour in weekends and weekdays.
 
 ![image]({{site.url}}/images/Screen Shot 2019-09-07 at 8.31.40 PM.png)
+
 ![image]({{site.url}}/images/Screen Shot 2019-09-07 at 8.31.47 PM.png)
 
 # 4.	Results
