@@ -22,14 +22,17 @@ Firstly, I split off the data for testing. Then, Create a baseline Model and the
 
  -Feature engineering 
 I power transformed my target and figures below show residual plot before and after.
+![image]({{site.url}}/images/Screen Shot 2019-09-18 at 4.33.17 PM.png)
 
+![image]({{site.url}}/images/download-1.png)
 
--Testing *strong* 
+-Testing 
 Tested best performing models, and I chose linear regression as my model with  R^2 = 0.29. 
 
 
 Notable Coefficients
 
+![image]({{site.url}}/images/Screen Shot 2019-09-23 at 12.18.34 AM.png)
 # Results:
 I concluded that a documentary TV series have a high probability of being highly rated. Also, that duration has a negative correlation with ratings, meaning the less the duration the more the rate.
 
