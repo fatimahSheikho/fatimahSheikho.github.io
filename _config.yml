@@ -33,8 +33,7 @@ gems:
 
 # Page List
 pages_list:       
-  About: '/about'
+  Home: '/about'
   Projects: '/Projects'
-  Home: '/index.html'
 
 theme: jekyll-theme-slate
