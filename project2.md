@@ -1,4 +1,4 @@
-layout: post
+
 
 # Predicting TV Series Ratings
 # Purpose:
