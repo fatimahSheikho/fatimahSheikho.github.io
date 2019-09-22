@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Fatimah Sheikho
-tagline:             A Moderately Okay Data Science Blog
+tagline:             
 url:                 http://fatimahSheikho.github.io
 paginate:            2
 baseurl:             ""
@@ -34,7 +34,7 @@ gems:
 # Page List
 pages_list:       
   About: '/about'
-  Archive: '/archive'
+  Archive: '/project'
   Feed: '/index.html'
 
 theme: jekyll-theme-slate
