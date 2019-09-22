@@ -34,7 +34,7 @@ gems:
 # Page List
 pages_list:       
   About: '/about'
-  Projects: 'Projects.md'
+  Projects: 'Projects'
   Home: '/index.html'
 
 theme: jekyll-theme-slate
