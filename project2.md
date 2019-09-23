@@ -1,8 +1,7 @@
 
----
-layout: post
-title: Predicting TV Series Ratings
----
+
+# Predicting TV Series Ratings
+
 
 
 # Purpose:
