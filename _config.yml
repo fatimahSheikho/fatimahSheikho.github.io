@@ -35,6 +35,5 @@ gems:
 pages_list:       
   Home: '/about'
   Projects: '/Projects'
-  Project2: '/project2.md'
 
 theme: jekyll-theme-slate
