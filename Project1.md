@@ -1,10 +1,6 @@
 
 
----
-layout: post
-title: New York Subways Traffic Analysis
----
-
+# New York Subways Traffic Analysis
 
 
 # Introduction:
