@@ -1,6 +1,10 @@
 
+---
+layout: post
+title: Predicting TV Series Ratings
+---
 
-# Predicting TV Series Ratings
+
 # Purpose:
 Being able to predict the rating of TV series before its release. So, it will attract audiences and increase the chance of its  success. From a business perspective, it will attract advertisers to promote their products during the stream of the series.
 
