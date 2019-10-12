@@ -20,12 +20,13 @@ The main purpose of my model is to predict type of the crimes to help prevent re
 ## Data Acquisition 
 I acquired the data from [Denver City and County ](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime). 
 ## EDA
-To gain more insight about my categories and to know more about the occurrence of each per year. 
+To gain more insight about my categories and to know more about the occurrence of each per year.
+![image]({{site.url}}/images/CrimesPerYear.png)
 ## Data Cleaning 
 1- Reduced the number of categories from 15 to 6.
 2- Dropped all traffic accidents rows.
 3- Filled NaNs.
-4- Splitt dates into hour/day/month/year. 
+4- Split off dates into hours/days/months/years. 
 ## Baseline
 I split off my data into training, validation and testing. Then, I created my baseline model using KNN R^2=0.62.
 ## Feature Engineering 
