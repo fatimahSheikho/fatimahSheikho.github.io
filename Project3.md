@@ -54,6 +54,7 @@ Tested on best performed model which is Random Forest Classifier. And the result
 Accuracy: 0.82
 F1: 0.78.
 
+
 ![image]({{site.url}}/images/Screen Shot 2019-10-09 at 6.30.03 PM.png)
 
 ## Conclusion:
