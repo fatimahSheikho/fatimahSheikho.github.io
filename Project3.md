@@ -53,6 +53,7 @@ F1: 0.63
 Tested on best performed model which is Random Forest Classifier. And the results were 
 Accuracy: 0.82
 F1: 0.78.
+![image]({{site.url}}/images/Screen Shot 2019-10-09 at 6.30.03 PM.png)
 
 ## Conclusion:
 With the number of insights gained from data, police officers can understand in what areas they would need more training or a change in policies for effective crime prevention.
