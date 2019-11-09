@@ -37,11 +37,17 @@ I builded a recommender that recommends talks based on clusters.
 The number of clusters were 4 based on elbow and silhouette test.
 -UMAP
 
+
 And to know more about what is inside each clusters, I builded a word cloud. I concluded that first cluster contains talks that are about sounds, and second one contains talks that motivate people. 
 
 # Ratings Clustering Results 
 The number of clusters were 4 based on elbow and silhouette test.
 - UMAP 
+
+And to dig into these clusters the table below shows highest ratings in each cluster
+
+# Recommender 
+I builded a recommender that takes the index of a talk and returns the most popular three talks in the same cluster based on transcript and ratings
 
 
 
